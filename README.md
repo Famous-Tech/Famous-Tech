@@ -2,7 +2,7 @@
 # 👋 Welcome to Famous-Tech's GitHub Profile
 
 <div align="center">
-  <img src="https://graph.org/file/4a292c32c810ab4716401.jpg" alt="Famous-Tech Logo" width="200" height="200" />
+  <img src="https://graph.org/file/5020b4d10c9626131f104.jpg" alt="Famous-Tech Logo" width="200" height="200" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
 
 ## 👀 Interests
-I am deeply interested in the realms of **Hacking** and **Bot Development**. My passion lies in exploring the intricacies of cybersecurity and automating tasks efficiently.
+I am deeply interested in the realms of **Hacking** and **whattsapp Bot Development**. My passion lies in exploring the intricacies of cybersecurity and automating tasks efficiently.
 
 ## 🌱 Current Learning
 I am currently delving into **Non-ethical Hacking**, focusing on understanding the vulnerabilities of systems and networks to better protect them.
