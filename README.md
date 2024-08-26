@@ -63,7 +63,7 @@ I am fluent in:
 - **English**
 
 ## 🎭 Group Affiliation
-I am a member of **DEDSEC**, a community focused on ethical hacking and cybersecurity. I do **not** engage in any illegal activities within the group.
+I am a member of **DEDSEC**, a community focused on hacking and cybersecurity. I do **not** engage in any illegal activities within the group.
 
 ---
 
