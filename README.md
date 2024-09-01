@@ -8,25 +8,12 @@
   <h3>🌟 Crafting the Future of Tech 🌟</h3>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-
-<div align="center">
-  <span id="typed-welcome"></span>
-</div>
-
-<script>
-  var typedWelcome = new Typed('#typed-welcome', {
-    strings: ["👋 Welcome to Famous-Tech's GitHub Profile"],
-    typeSpeed: 40,
-    showCursor: false
-  });
-</script>
 
 ## 👀 Interests
 I am deeply interested in the realms of **Hacking** and **whattsapp Bot Development**. My passion lies in exploring the intricacies of cybersecurity and automating tasks efficiently.
 
 ## 🌱 Current Learning
-I am currently delving into **Non-ethical Hacking**, focusing on understanding the vulnerabilities of systems and networks to better protect them.
+I am currently learning JavaScript,CSS and python 
 
 ## 💞️ Collaboration
 I am open to collaborating on projects related to:
@@ -34,7 +21,7 @@ I am open to collaborating on projects related to:
 - **Bot Creation**
 - **Hacking Scripts**
 
-Feel free to reach out if you're working on something exciting in these areas!
+***Feel free to reach out if you're working on something exciting in these areas!***
 
 ## 🚀 Featured Projects
 
