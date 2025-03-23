@@ -29,15 +29,7 @@ I am open to collaborating on projects related to:
 
 ## 🚀 Featured Projects
 
-### [FAMOUS-DDOS](https://github.com/Famous-Tech/FAMOUS-DDOS)
-<a href="https://github.com/Famous-Tech/FAMOUS-DDOS">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Famous-Tech&repo=FAMOUS-DDOS&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-### [PROTECT-KIT](https://github.com/Famous-Tech/PROTECT-KIT)
-<a href="https://github.com/Famous-Tech/PROTECT-KIT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Famous-Tech&repo=PROTECT-KIT&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
+### Not for now
 
 ## 📊 GitHub Stats
 
@@ -52,7 +44,7 @@ I am open to collaborating on projects related to:
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:famoustechht@gmail.com">
+  <a href="mailto:famoustechgroup@proton.me">
     <img src="https://img.shields.io/badge/Email%20Me-black?style=for-the-badge&logo=Gmail" alt="Email">
   </a>
   <a href="https://wa.me/50943782508?text=Hi+Famous-Tech+How+are+you">
