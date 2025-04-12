@@ -1,7 +1,7 @@
 [![FAMOUS-TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+FAMOUS-TECH;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+HAITI;Nice+to+Meet+You)](https://www.famoustech.xyz)
 
 
-![My card name](https://cardivo.vercel.app/api?name=FAMOUS-%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/Famous-Tech.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=Famous-Tech&)
+![My card name](https://cardivo.vercel.app/api?name=FAMOUS-%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/Famous-Tech.png?v=4&backgroundColor=brown&site=www.famoustech.xyz)
 </p>
 
 <div align="center">
@@ -50,7 +50,7 @@ I am open to collaborating on projects related to:
   <a href="mailto:famoustechgroup@proton.me">
     <img src="https://img.shields.io/badge/Email%20Me-black?style=for-the-badge&logo=Gmail" alt="Email">
   </a>
-  <a href="https://wa.me/50943782508?text=Hi+Famous-Tech+How+are+you">
+  <a href="https://wa.me/50944156629?text=Hi+Famous-Tech+How+are+you">
     <img src="https://img.shields.io/badge/WhatsApp%20Me-red?style=for-the-badge&logo=WhatsApp" alt="WhatsApp">
   </a>
   <a href="https://www.famoustech.xyz">
