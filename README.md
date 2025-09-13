@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.famoustech.xyz">
-    <img src="https://graph.org/file/5020b4d10c9626131f104.jpg" alt="Famous-Tech Logo" width="200" height="200" />
+    <img src="https://files.catbox.moe/3edqsx.png" alt="Famous-Tech Logo" width="200" height="200" />
   </a>
 </div>
 
@@ -17,22 +17,33 @@
 
 
 ## 👀 Interests
-I am deeply interested in the realms of **Hacking** and **whattsapp Bot Development**. My passion lies in exploring the intricacies of cybersecurity and automating tasks efficiently.
+I am deeply interested in AI and server-side projects.  
+My passion lies in exploring the intricacies of backend development and automating tasks efficiently.
 
 ## 🌱 Current Learning
-I am currently learning JavaScript,CSS and python 
+I am currently learning **TypeScript** and **OOP in JavaScript**.
 
 ## 💞️ Collaboration
 I am open to collaborating on projects related to:
 - **Web Development**
 - **Bot Creation**
-- **Hacking Scripts**
+- **AI Integration**
+- **Real server-based systems**
 
 ***Feel free to reach out if you're working on something exciting in these areas!***
 
 ## 🚀 Featured Projects
 
-### Not for now
+### 🔥 [FSX](https://github.com/Famous-Tech/FSX)  
+A lightweight **React SSR framework** built with:  
+- React 19 + TypeScript + Vite + TailwindCSS  
+- Express.js backend with Redis caching  
+- Python scripts for image optimization  
+- Docker-ready for deployment  
+
+👉 Goal: **SEO-optimized, fast, and indexable React websites**.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -43,6 +54,12 @@ I am open to collaborating on projects related to:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Famous-Tech&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Famous-Tech&theme=dark" alt="GitHub Streak" />
+</div>
+
+---
 
 ## 📫 Contact Me
 
@@ -58,6 +75,8 @@ I am open to collaborating on projects related to:
   </a>
 </p>
 
+---
+
 ## 🌍 Languages
 I am fluent in:
 - **French**
@@ -65,17 +84,16 @@ I am fluent in:
 - **English**
 
 ## 🎭 Group Affiliation
-I am a member of **DEDSEC**, a community focused on hacking and cybersecurity. I do **not** engage in any illegal activities within the group.
+I am a member of **CNS (Code No Sekai)**, a community focused on programming and teamwork.  
 
 ---
 
 <div align="center">
-  <h3>🚀 Let's Code the Future Together! 🚀</h3>
+  <h3>🚀 Call Famous-Tech and let Innovation meet execution 🚀</h3>
   <p>Visit <a href="https://www.famoustech.xyz">Famous-Tech.xyz</a> for more</p>
 </div>
 
 ---
 
-Feel free to explore my repositories and don't hesitate to get in touch for collaborations or discussions!
-
----
+Feel free to explore my repositories and don't hesitate to get in touch for collaborations or discussions!  
+> Last modification (sam 13 Sep 2025)
