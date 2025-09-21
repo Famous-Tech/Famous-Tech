@@ -84,7 +84,7 @@ I am fluent in:
 - **English**
 
 ## 🎭 Group Affiliation
-I am a member of **CNS (Code No Sekai)**, a community focused on programming and teamwork.  
+I am a member of **CTE (Code The World)**, a community focused on programming teamwork, and BUILDING Modern, Lighter, and Efficient tools for developers.  
 
 ---
 
